@@ -93,4 +93,6 @@ img { width: 100%; height: auto; display: block }
     font-family: 'utopia-std-display', serif; font-weight: 800 /* bold */;
     font-size: 2.15rem;
     color:#02BCAA;
+    padding-top: 40px;
+    padding-left: 30px;
 }
